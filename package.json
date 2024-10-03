@@ -45,7 +45,7 @@
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5",
     "web3": "^1.2.8",
-    "web3-core-helpers": "^1.2.8",
+    "web3-core-helpers": "^1.10.4",
     "web3-eth-contract": "^1.2.8"
   },
   "devDependencies": {
