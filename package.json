@@ -24,7 +24,7 @@
     "node": "ganache-cli --port 8545 -l 0x1fffffffffffff -i 5777 -g 1 --allowUnlimitedContractSize"
   },
   "dependencies": {
-    "@types/chai": "^4.2.11",
+    "@types/chai": "^4.3.19",
     "@types/es6-promisify": "^6.0.0",
     "@types/mocha": "^7.0.2",
     "assert": "^2.0.0",
